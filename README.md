@@ -1,4 +1,4 @@
-This repository contains mathematical theorems translated into C ++ language
+This repository contains mathematical theorems,mathematical formula translated into C ++ language
 
 --theoreme-poisson
 
