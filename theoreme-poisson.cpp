@@ -1,5 +1,5 @@
-#include <iostream> 
-#include <cstdlib> 
+#include <iostream>
+#include <cstdlib>
 #include <math.h>
 #include <conio.h>
 using namespace std ;
@@ -23,6 +23,6 @@ for(i=ale-1;i>0;i--)
 
 cout << " La distribucion de Poisson es : "<<elevacion*elevacion1/ale<<endl;
 
-system("pause"); //system("pause") 
+system("pause"); //system(pause) 
 return 0 ;
 }
